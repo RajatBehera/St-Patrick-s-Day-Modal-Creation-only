@@ -1,0 +1,120 @@
+#mob_layout {
+    margin-top: 30%;
+   margin-left:40% ;
+    width: 300px;
+    height: 400px;
+    background: #10A285 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#mob_cont1{
+   padding-top: 14px;
+    margin-left: 16px;
+    width: 51px;
+    height: 17px;    
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal bold 12px/26px Noto Sans;
+    letter-spacing: 0.18px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.mob_miamilogo{
+    top: 31px;
+    left: 90px;
+    width: 120px;
+    height: 20px;
+    padding-left: 90px;
+    filter:brightness(0) invert(1);  
+}
+#mob_cont2 {
+    padding-top: 7px;
+    margin-left: 49px;
+    width: 204px;
+    height: 103px;
+    font-family: serif;
+    font-size: 24px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+#mob_cont3 {
+   margin-top: 4px;
+   padding-bottom: 2px;
+    width: 204px;
+    height: 70px;
+    text-align: center;
+    color: #10A285;
+    font-size:65px;
+    background-color: #FFFFFF;
+    font-weight:700;
+    font-family:  Verdana, sans-serif ;
+    letter-spacing: 3px;
+    opacity: 1;
+}
+#mob_cont4 {
+    padding-top:19px ;
+    padding-left: 20px;
+    width: 261px;
+    height: 22px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: -0.16px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+#mob_cont5 {
+    padding-top: 3.5px;
+    width: 300x;
+    height: 33px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal bold 24px/46px Noto Sans;
+    letter-spacing: -0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+#mob_cont6 {
+    padding-top: 6px;
+    padding-left: 20px;
+    width: 261px;
+    height: 22px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: -0.16px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+#mob_cont7 {
+    margin-top: 16px;
+    margin-left: 65px;
+    width: 170px;
+    height: 40px;
+    background: #262629 0% 0% no-repeat padding-box;
+    border-radius: 2px;
+    border:#262629;
+    opacity: 1;
+}
+#sub_cont7 {
+    height: 19px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal bold 14px/36px Noto Sans;
+    letter-spacing: 0.7px;
+    color: #FFFFFF;
+    text-decoration: none;
+    opacity: 1;
+}
+
+#mob_cont8 {
+  padding-top: 17px; 
+    padding-left: 20px;
+    width: 260px;
+    height: 17px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal bold 12px/20px Noto Sans;
+    letter-spacing: -0.12px;
+    color: #FFFFFF;
+    opacity: 1;
+}
